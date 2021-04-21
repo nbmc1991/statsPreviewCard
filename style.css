@@ -1,0 +1,53 @@
+/* *{
+    background-color: hsl(207, 70%, 53%);
+} */
+
+.card-background {
+    position: center;
+    margin-top: 25vh;
+    margin-left: 25vh;
+    background-color: hsl(244, 38%, 16%);
+    max-width: fit-content;
+
+}
+
+.card-body h1 {
+    color: hsl(0, 0%, 100%);
+    
+}
+
+.main-paragraph {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.card-background {
+    color: hsl(233, 47%, 7%);
+}
+.attribution {
+     font-size: 11px;
+     text-align: center;
+     }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+
+
+
+
+
+
+/* @media(min-width:375px){
+    h1 {
+        font-size: 1.25rem;
+    }
+
+}
+
+@media (max-width: 1440px){
+    h1{
+        font-size: 3.25rem;
+    }
+} */
