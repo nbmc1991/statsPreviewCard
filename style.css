@@ -3,26 +3,33 @@
 } */
 
 .card-background {
-    position: center;
-    margin-top: 25vh;
-    margin-left: 25vh;
+    /* position: center; */
     background-color: hsl(244, 38%, 16%);
-    max-width: fit-content;
-
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+align-items: baseline;
 }
 
 .card-body h1 {
     color: hsl(0, 0%, 100%);
+    margin-top: 10px;
     
 }
 
+.img-div {
+    height: inherit;
+    width: auto;
+}
+
+.stats b {
+    color: white;
+}
 .main-paragraph {
     color: hsla(0, 0%, 100%, 0.75);
 }
 
-.card-background {
-    color: hsl(233, 47%, 7%);
-}
 .attribution {
      font-size: 11px;
      text-align: center;
